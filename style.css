@@ -72,8 +72,8 @@ main {
 .product-shipping-info {
   position: absolute;
 
-  top: 1rem;
-  right: 1rem;
+  top: 4%;
+  right: 3%;
   padding-block: 0.3rem;
   padding-inline: 0.5rem;
   border-radius: 0.5rem;
@@ -93,8 +93,8 @@ main {
 .sale-teaser {
   position: absolute;
 
-  top: 2rem;
-  left: 3rem;
+  top: 10%;
+  left: 12%;
 }
 
 .sale-teaser-content {
@@ -117,8 +117,8 @@ main {
 
   z-index: 1;
 
-  top: 17.5rem;
-  left: 1rem;
+  top: 90%;
+  left: 3%;
 
   font-size: 0.75rem;
 
